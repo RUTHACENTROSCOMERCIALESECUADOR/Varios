@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication3\\webapplication3\\datos\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\datos\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication3\\webapplication3\\webapplication3.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication3\\webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication3\\webapplication3\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication3\\webapplication3\\datos\\mapeodatosdestinatrio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\datos\\mapeodatosdestinatrio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication3\\webapplication3\\controllers\\destinatariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\destinatariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication3\\webapplication3\\models\\destinatario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\destinatario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication3\\webapplication3\\models\\consultardestinatarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\consultardestinatarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication3\\webapplication3\\models\\actualizarhorariodestinatariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\actualizarhorariodestinatariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication3\\webapplication3\\models\\listardestinatariosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\listardestinatariosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication3\\webapplication3\\models\\consultardetalledestinatarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87DB1E8-77DC-460F-9351-B27D927AD41D}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\consultardetalledestinatarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T16:47:58.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication3\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T15:14:22.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplication3.http",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\WebApplication3.http",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.http",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\WebApplication3.http",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-04T16:40:53.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Datos\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Datos\\DataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Datos\\DataAccessLayer.cs",
+              "RelativeToolTip": "WebApplication3\\Datos\\DataAccessLayer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwF8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:54:38.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapeoDatosDestinatrio.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Datos\\MapeoDatosDestinatrio.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Datos\\MapeoDatosDestinatrio.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Datos\\MapeoDatosDestinatrio.cs",
+              "RelativeToolTip": "WebApplication3\\Datos\\MapeoDatosDestinatrio.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv+EAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:42:53.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication3\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:26:00.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T15:16:45.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DestinatarioController.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Controllers\\DestinatarioController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\DestinatarioController.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Controllers\\DestinatarioController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\DestinatarioController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T19:38:14.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsultarDestinatarioQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Models\\ConsultarDestinatarioQuery.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ConsultarDestinatarioQuery.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Models\\ConsultarDestinatarioQuery.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ConsultarDestinatarioQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T22:05:32.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Destinatario.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Models\\Destinatario.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Destinatario.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Models\\Destinatario.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Destinatario.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T16:48:12.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListarDestinatariosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Models\\ListarDestinatariosQuery.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ListarDestinatariosQuery.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Models\\ListarDestinatariosQuery.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ListarDestinatariosQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T21:51:02.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActualizarHorarioDestinatarioRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Models\\ActualizarHorarioDestinatarioRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ActualizarHorarioDestinatarioRequest.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Models\\ActualizarHorarioDestinatarioRequest.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ActualizarHorarioDestinatarioRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T14:40:41.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsultarDetalleDestinatarioQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Models\\ConsultarDetalleDestinatarioQuery.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ConsultarDetalleDestinatarioQuery.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication3\\WebApplication3\\Models\\ConsultarDetalleDestinatarioQuery.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ConsultarDetalleDestinatarioQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T22:06:23.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

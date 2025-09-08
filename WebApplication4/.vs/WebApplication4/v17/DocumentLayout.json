@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication4\\webapplication4\\controllers\\destinatariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\destinatariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication4\\webapplication4\\views\\destinatario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\destinatario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication4\\webapplication4\\models\\destinatario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\destinatario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication4\\webapplication4\\views\\destinatario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\destinatario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication4\\webapplication4\\models\\listardestinatariosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\listardestinatariosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication4\\webapplication4\\models\\consultardestinatarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\consultardestinatarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication4\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication4\\webapplication4\\views\\destinatario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\destinatario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication4\\webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|c:\\users\\ruth.asqui\\desktop\\nueva carpeta (2)\\webapplication4\\webapplication4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{229F2AC8-59F7-4645-8161-748BA573F74C}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestinatarioController.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Controllers\\DestinatarioController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\DestinatarioController.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Controllers\\DestinatarioController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\DestinatarioController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T01:51:53.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListarDestinatariosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Models\\ListarDestinatariosQuery.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\ListarDestinatariosQuery.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Models\\ListarDestinatariosQuery.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\ListarDestinatariosQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T01:05:59.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Destinatario.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Models\\Destinatario.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Destinatario.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Models\\Destinatario.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Destinatario.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T01:04:52.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Views\\Destinatario\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Destinatario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Views\\Destinatario\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Destinatario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T02:01:56.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultarDestinatarioQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Models\\ConsultarDestinatarioQuery.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\ConsultarDestinatarioQuery.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Models\\ConsultarDestinatarioQuery.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\ConsultarDestinatarioQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T16:57:33.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Program.cs",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeToolTip": "WebApplication4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T01:15:25.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Views\\Destinatario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Destinatario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Views\\Destinatario\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Destinatario\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T02:07:35.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Views\\Destinatario\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Destinatario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Views\\Destinatario\\Create.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Destinatario\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T02:05:12.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T01:33:40.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ruth.asqui\\Desktop\\Nueva carpeta (2)\\WebApplication4\\WebApplication4\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T01:26:47.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

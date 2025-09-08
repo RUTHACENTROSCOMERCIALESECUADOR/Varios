@@ -1,0 +1,59 @@
+﻿@model List<Destinatario>
+
+@{
+    ViewData["Title"] = "Lista de Destinatarios";
+    string nombreFiltro = Context.Request.Query["nombre"];
+    string idCreado = Context.Request.Query["id"];
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (!string.IsNullOrEmpty(idCreado))
+{
+    <div class="alert alert-success">
+        ✅ ¡Destinatario creado exitosamente! ID: @idCreado
+    </div>
+}
+
+<div class="d-flex justify-content-between mb-3">
+    <form asp-action="Index" method="get" class="form-inline">
+        <input type="text" name="nombre" value="@nombreFiltro" class="form-control mr-2" placeholder="Buscar por nombre..." />
+        <button type="submit" class="btn btn-outline-primary">Buscar</button>
+    </form>
+
+    <a asp-action="Create" class="btn btn-primary">+ Crear Destinatario</a>
+</div>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Código</th>
+                <th>Nombre</th>
+                <th>Correo</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var d in Model)
+            {
+                <tr>
+                    <td>@d.codigoDestinatario</td>
+                    <td>@d.nombreDestinatario</td>
+                    <td>@d.correoDestinatario</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@d.idDestinatario" class="btn btn-sm btn-warning">Editar</a>
+                        <form asp-action="Delete" asp-route-id="@d.idDestinatario" method="post" style="display:inline;" onsubmit="return confirm('¿Eliminar este destinatario?');">
+                            <button type="submit" class="btn btn-sm btn-danger">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info">No hay datos para mostrar. Filtra por nombre o crea un nuevo destinatario.</div>
+}

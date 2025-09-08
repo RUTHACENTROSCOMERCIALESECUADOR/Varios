@@ -1,0 +1,187 @@
+[
+  {
+    "ContainingType": "WebApplication3.Controllers.DestinatarioController",
+    "Method": "Actualizar",
+    "RelativePath": "api/prueba/v1/actualiza",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "REFERENCE_ID",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CONSUMER",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "query",
+        "Type": "WebApplication3.Models.Destinatario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApplication3.Controllers.DestinatarioController",
+    "Method": "Consultar",
+    "RelativePath": "api/prueba/v1/consultar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "REFERENCE_ID",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CONSUMER",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "query",
+        "Type": "WebApplication3.Models.ConsultarDestinatarioQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WebApplication3.Models.Destinatario, WebApplication3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApplication3.Controllers.DestinatarioController",
+    "Method": "crear",
+    "RelativePath": "api/prueba/v1/crear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "REFERENCE_ID",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CONSUMER",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "query",
+        "Type": "WebApplication3.Models.Destinatario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApplication3.Controllers.DestinatarioController",
+    "Method": "eliminar",
+    "RelativePath": "api/prueba/v1/eliminar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "REFRENCES_ID",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CONSUMER",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "idDestinatario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApplication3.Controllers.DestinatarioController",
+    "Method": "Listar",
+    "RelativePath": "api/prueba/v1/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "REFERENCE_ID",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CONSUMER",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombreCodigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "idEmpresa",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WebApplication3.Models.Destinatario, WebApplication3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
